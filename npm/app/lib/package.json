@@ -1,0 +1,8 @@
+{
+  "name": "MyApp-lib",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "nano": "3.3.5"
+  }
+}
